@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_battery_0.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_battery_1.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_battery_2.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_battery_5.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_battery_charging.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_charge.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_clim.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_frunk.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/ic_trunk.xml" value="0.1935" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/drawable/window.xml" value="0.314" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/layout/activity_main.xml" value="0.3614213197969543" />
+        <entry key="..\:/Users/sylva/StudioProjects/AmazfitStratosTestApp/app/src/main/res/layout/second.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
